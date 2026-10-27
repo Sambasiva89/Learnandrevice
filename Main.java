@@ -7,5 +7,7 @@ public class Main {
         {
              System.out.println("i = " + i);
         }
+        System.out.printf("Hello there!");
+        System.out.printf("I am using the Intellij!");
     }
 }
