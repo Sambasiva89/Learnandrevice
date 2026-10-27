@@ -8,6 +8,7 @@ public class Main {
              System.out.println("i = " + i);
         }
         System.out.printf("Hello there!");
+        System.out.println("Hello there i am updating the git and learning something to learn!");
         System.out.printf("I am using the Intellij!");
     }
 }
